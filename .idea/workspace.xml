@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0438c941-8ec8-4676-adb1-71a58985370f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/simulated_annealing$App.ic" NAME="App Coverage Results" MODIFIED="1550299740683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UXxL4AZ6bzkT4IpLFKTLSDTTnc" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551071510509" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="simulated_annealing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0438c941-8ec8-4676-adb1-71a58985370f" name="Default Changelist" comment="" />
+      <created>1549560083304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549560083304</updated>
+      <workItem from="1549560086214" duration="3292000" />
+      <workItem from="1549814129577" duration="3077000" />
+      <workItem from="1549826765200" duration="3516000" />
+      <workItem from="1549920417390" duration="338000" />
+      <workItem from="1549996739619" duration="12165000" />
+      <workItem from="1550022876228" duration="16354000" />
+      <workItem from="1550088237958" duration="1527000" />
+      <workItem from="1550118511375" duration="3960000" />
+      <workItem from="1550202701313" duration="425000" />
+      <workItem from="1550297565201" duration="4776000" />
+      <workItem from="1550509092886" duration="507000" />
+      <workItem from="1550528431603" duration="10051000" />
+      <workItem from="1550551829537" duration="4690000" />
+      <workItem from="1550601562817" duration="2100000" />
+      <workItem from="1550624089130" duration="1252000" />
+      <workItem from="1550630725180" duration="4088000" />
+      <workItem from="1550636229051" duration="1702000" />
+      <workItem from="1550691733191" duration="3301000" />
+      <workItem from="1550703388495" duration="811000" />
+      <workItem from="1550704922361" duration="3061000" />
+      <workItem from="1550776374954" duration="623000" />
+      <workItem from="1550789954420" duration="414000" />
+      <workItem from="1550811879528" duration="34000" />
+      <workItem from="1550816708442" duration="145000" />
+      <workItem from="1550818460292" duration="131000" />
+      <workItem from="1550818844464" duration="3000" />
+      <workItem from="1550818900295" duration="4284000" />
+      <workItem from="1550863722387" duration="810000" />
+      <workItem from="1550870859091" duration="9292000" />
+      <workItem from="1551053833089" duration="8686000" />
+      <workItem from="1551063322499" duration="7286000" />
+      <workItem from="1551078236373" duration="4416000" />
+      <workItem from="1551199453105" duration="138000" />
+      <workItem from="1552604143274" duration="124000" />
+      <workItem from="1553749123698" duration="8000" />
+      <workItem from="1553751537201" duration="40000" />
+      <workItem from="1554581298142" duration="16000" />
+      <workItem from="1575516682772" duration="372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>simulated_annealing</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
